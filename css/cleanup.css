@@ -8,7 +8,7 @@
 div#wall div#tag-3.slick {
   display: none;
 }
-div.parent  div#tag-4 {
+.parent div#tag-4 {
   display: none;
 }
 div#tag-5.slick {
@@ -27,3 +27,12 @@ div#tag-5.slick {
     <div class="parent">
       <div id="tag-5" class="slick"></div>
     </div>
+    <div class="parent">
+      <div></div>
+      <div>
+        <div id="tag-6"></div>
+      </div>
+    </div>
+    <div class="parent">
+      <div>
+        <div id="tag-7" class="slick
