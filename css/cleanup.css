@@ -8,7 +8,7 @@
 div#wall div#tag-3.slick {
   display: none;
 }
-.parent + div#tag-4 {
+.parent div#tag-4 {
   display: none;
 }
 #tag-5 {
